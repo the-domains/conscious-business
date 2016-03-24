@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Conscious Business]]></title>
+        <description><![CDATA[Conscious Business]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Thu, 24 Mar 2016 15:50:51 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[The psychology of failure? ]]></title>
+            <description><![CDATA[<article><h1>The psychology of failure? </h1><p>If at first you don't succeed, try, try again. Words of wisdom heralded throughout our upbringing, to be sure. But is there any scientific proof that successive failure is positive and propels innovation forwards? Tom Pohlmann, head of strategy and value at Mu Sigma, a decision science and data analytics firm, says there is, having studied in depth the idea of successive failure.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/f25bb940c8ce2b6036231c4446671e8e1746f500.jpg"></article>]]></description>
+            <link>urn:uuid:02a4e5b1-51ce-4d62-bf7e-eef6f34891c0</link>
+            <guid isPermaLink="false">a01f3825-a174-43ec-a780-ea3c3ca05330</guid>
+            <pubDate>Thu, 24 Mar 2016 15:50:39 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
