@@ -1,0 +1,28 @@
+name: Conscious Business
+favicon: null
+layout_spectrum: 0.895880542928353
+typography_spectrum: 0.6910846803802997
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#17BEBB'
+    - '#2E282A'
+    - '#CD5334'
+    - '#EDB88B'
+    - '#FAD8D6'
+  brandStrength: 0.24859989807009697
+  lightness: 0.379456004826352
+  saturation: 0.6522574070841074
+  rhythmicContrast: 0.2115076663903892
+purpose: []
