@@ -7,16 +7,16 @@ inLanguage: null
 starred: false
 keywords: []
 description: The psychology of failure?
-datePublished: '2016-03-24T15:50:39.333Z'
-dateModified: '2016-03-24T15:50:38.972Z'
+datePublished: '2016-03-25T15:14:05.699Z'
+dateModified: '2016-03-25T15:13:36.826Z'
 author: []
 title: 'The psychology of failure? '
 authors: []
 publisher:
+  favicon: null
   name: ''
   domain: ''
   url: null
-  favicon: null
 sourcePath: _posts/2016-03-24-the-psychology-of-failure.md
 published: true
 _context: 'http://schema.org'
