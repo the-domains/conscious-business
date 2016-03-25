@@ -1,7 +1,7 @@
 name: Conscious Business
 favicon: null
-layout_spectrum: 0.895880542928353
-typography_spectrum: 0.6910846803802997
+layout_spectrum: 0.75678
+typography_spectrum: 0.8595
 title: Conscious Business Practices
 cta:
   domain: null
@@ -23,7 +23,7 @@ color:
     - '#EDB88B'
     - '#FAD8D6'
   brandStrength: 0.24859989807009697
-  lightness: 0.379456004826352
+  lightness: 0.625
   saturation: 0.6522574070841074
-  rhythmicContrast: 0.2115076663903892
+  rhythmicContrast: 0.5
 purpose: []
